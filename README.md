@@ -1,4 +1,4 @@
-_Criteria for Identifying Bots_
+**Criteria for Identifying Bots**
 
 The script uses the following two primary criteria to flag an address as a likely bot:
 
